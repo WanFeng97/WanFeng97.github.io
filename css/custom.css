@@ -1,0 +1,8 @@
+/* Your custom css code goes here */
+.img-bg .probootstrap-photo-details p {
+    margin: 0;
+    padding: 0;
+    color: #ffffff;
+    -webkit-transition: .3s all ease;
+    transition: .3s all ease;
+  }
